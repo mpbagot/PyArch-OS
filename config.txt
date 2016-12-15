@@ -1,0 +1,3 @@
+PyCom-Laptop-Debug
+True
+/home/pack-of-14eggies/
